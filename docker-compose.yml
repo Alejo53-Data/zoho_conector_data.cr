@@ -1,0 +1,10 @@
+version: '3'
+services:
+  web:
+    build: .
+    command: sh -c "flask run -h 0.0.0.0 -p 5002"
+    image: adnpay1
+    restart: on-failure
+    ports:
+      - "5002:5002"
+

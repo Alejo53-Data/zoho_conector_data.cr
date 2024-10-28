@@ -1,0 +1,319 @@
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+Arreglo: {'index': 6846, 'name': 'Roger Ramon Callejas Morales', 'email': 'rogercall@hotmail.com', 'phone': '50687295198', 'id': '110390669', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000131767403', 'ftth': 'condominium', 'mobile': '50687295198', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Piedades', 'address': 'casa 42 ', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 17, 0, 10, 710000), 'extra_iptv': 4, 'promcode': '3413022000169357001', 'crm_status': False}
+3413022000169357001
+./
+Condominios
+Conobj:  {'Nombre': 'Freddy Cruz', 'Owner': 3413022000085558001, 'Email': 'fcruz@administracionmhs.com', 'Cortes_a': True, 'CPO': 50, '$currency_symbol': 'CRC', '$field_states': None, 'Name': 'Condominio Río Plata', 'Last_Activity_Time': datetime.datetime(2024, 3, 20, 19, 28, 56, tzinfo=tzlocal()), '$state': 'save', 'Unsubscribed_Mode': None, '$process_flow': False, '$locked_for_me': False, 'D_as_de_Atenci_n': 'Lunes a Sábado', 'id': 3413022000131767403, '$approved': True, '$approval': {'delegate': False, 'approve': False, 'reject': False, 'resubmit': False}, 'Created_Time': datetime.datetime(2022, 7, 1, 17, 56, 9, tzinfo=tzlocal()), 'Cantidad_de_Clientes': 7, '$editable': True, 'Direcci_n': '400m sur de Fresh Market Piedades de Santa Ana', 'Estatus': 'Acceso permitido', 'Fases': 'Construido', 'Cantidad_de_Clientes_Informe': 7.0, 'Ejecutivo_Encargado': 3413022000169357001, 'Created_By': 3413022000085558001, '$zia_owner_assignment': None, 'Canitdad_de_Casas': 25, '$review_process': {'approve': False, 'reject': False, 'resubmit': False}, 'N_A_Cortes_a': False, 'Penetracion': 28.0, '$canvas_id': None, 'Record_Image': None, 'Modified_By': 3413022000000191017, 'F_Cantidad_de_Casas': 25.0, '$review': None, 'Estado_de_Construncion': 'Completado', 'Fecha_de_Instalaci_n': datetime.datetime(2022, 2, 11, 17, 0, tzinfo=tzlocal()), 'Horario_de_Ingreso': 'Lunes a Viernes de 8:00 a.m a 5:00 p.m y Sábados de 8:00 a.m a 12:00 m.d', 'Provincia': 'San José', 'Tel_fono': '50683119500', 'Tipo_de_Condominio': 'Horizontal', 'Modified_Time': datetime.datetime(2024, 3, 20, 19, 28, 56, tzinfo=tzlocal()), 'Distritos': 'Piedades', 'Unsubscribed_Time': None, 'Cant_n': 'Santa Ana', '$orchestration': False, 'Capacidad_Maxima': '1GB', 'Factibilidad': None, '$in_merge': False, 'Locked__s': False, 'Coordenadas': '9.92730572359092, -84.20191711756229', 'Tag': '', 'Tipo_de_Construcci_n': 'Ducto', '$approval_state': 'approved'}
+Cadena  1103.90669
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d6fed00>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d6fed00>]
+3413022000262993002
+zoho_id cuenta
+Dat consecutivo DAT-8267-001
+8267
+Testst
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8dadf0>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8dadf0>]
+3413022000263144005
+Consecutivo Generated
+Consecutivo: DAT-8267-001
+ZID:  3413022000262993002
+DAT:  DAT-8267-001
+[<zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c4f30fa30>]
+Record:  <zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c4f30fa30>
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f327f40>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f327f40>]
+3413022000263147001
+zoho_id Contact
+2024-03-25
+Record List:  [<zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c4f30ff70>]
+E1
+request:  <zcrmsdk.src.com.zoho.crm.api.record.action_wrapper.ActionWrapper object at 0x7f2c4f33b2b0>
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f33bca0>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f33bca0>]
+3413022000263148001
+zoho_id CONTRACTT
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8dab80>]
+{'index': 6846, 'name': 'Roger Ramon Callejas Morales', 'email': 'rogercall@hotmail.com', 'phone': '50687295198', 'id': '110390669', 'id_type': 'Cedula Fisica', 'type': 'dual-play', 'condominium': '3413022000131767403', 'ftth': 'condominium', 'mobile': '50687295198', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Piedades', 'address': 'casa 42 ', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 17, 0, 10, 710000), 'extra_iptv': 4, 'promcode': '3413022000169357001', 'crm_status': False, 'price': 38000.0, 'download': 500.0, 'upload': 500.0, 'simetry': '1', 'iptv': True, 'telephony': '0', 'price_string': '38.000', 'idpro': '3413022000064317021', 'description': 'Servicio de internet Fibra Óptica de 500 Mbps Simétrico con una relación de (1:1)', 'tax_free_price': 33115.0, 'public_ip': False, 'coorda': '9.92730572359092, -84.20191711756229', 'idacc': 3413022000262993002, 'idcont': 3413022000263147001, 'namem': 'Condominios', 'nameaccm': 'Condominio_C', 'idcontact': 3413022000263147001, 'idcontract': 3413022000263148001, 'idtask': 3413022000263123002}
+Arreglo: {'index': 6847, 'name': 'Gabriel Janu', 'email': 'gabriel@iptech.cr', 'phone': '88800080', 'id': '120300001426', 'id_type': 'DIMEX', 'type': 'customer', 'condominium': '3413022000131767773', 'ftth': 'condominium', 'mobile': '88800080', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Escazú', 'address': 'Casa 6', 'plan': 10, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 17, 6, 14, 997000), 'extra_iptv': 0, 'promcode': '3413022000135443031', 'crm_status': False}
+3413022000135443031
+./
+Condominios
+Conobj:  {'Nombre': 'Marielos Rodriguez', 'Owner': 3413022000085558001, 'Email': 'vistaalegreurb@gmail.com', 'Cortes_a': False, 'CPO': 1, '$currency_symbol': 'CRC', '$field_states': None, 'Name': 'Residencial Vista Alegre Escazu', 'Last_Activity_Time': datetime.datetime(2024, 3, 20, 21, 6, 10, tzinfo=tzlocal()), '$state': 'save', 'Unsubscribed_Mode': None, '$process_flow': False, '$locked_for_me': False, 'D_as_de_Atenci_n': None, 'id': 3413022000131767773, '$approved': True, '$approval': {'delegate': False, 'approve': False, 'reject': False, 'resubmit': False}, 'Created_Time': datetime.datetime(2022, 7, 1, 20, 30, 24, tzinfo=tzlocal()), 'Cantidad_de_Clientes': 6, '$editable': True, 'Direcci_n': '150m sur, 200 este del condominio Bello Horizonte', 'Estatus': 'Acceso permitido', 'Fases': 'Construido', 'Cantidad_de_Clientes_Informe': 6.0, 'Ejecutivo_Encargado': 3413022000190520001, 'Created_By': 3413022000085558001, '$zia_owner_assignment': None, 'Canitdad_de_Casas': 70, '$review_process': {'approve': False, 'reject': False, 'resubmit': False}, 'N_A_Cortes_a': True, 'Penetracion': 8.57, '$canvas_id': None, 'Record_Image': None, 'Modified_By': 3413022000000191017, 'F_Cantidad_de_Casas': 70.0, '$review': None, 'Estado_de_Construncion': 'Completado', 'Fecha_de_Instalaci_n': datetime.datetime(2021, 9, 22, 20, 0, tzinfo=tzlocal()), 'Horario_de_Ingreso': None, 'Provincia': 'San José', 'Tel_fono': '83853361', 'Tipo_de_Condominio': 'Horizontal', 'Modified_Time': datetime.datetime(2024, 3, 20, 21, 6, 10, tzinfo=tzlocal()), 'Distritos': 'Escazú', 'Unsubscribed_Time': None, 'Cant_n': 'Santa Ana', '$orchestration': False, 'Capacidad_Maxima': '1GB', 'Factibilidad': None, '$in_merge': False, 'Locked__s': False, 'Coordenadas': '9.928363717296218, -84.12297002133506', 'Tag': '', 'Tipo_de_Construcci_n': 'Aéreo', '$approval_state': 'approved'}
+Cadena  120300.001426
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8dacd0>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8dacd0>]
+3413022000263149001
+zoho_id cuenta
+Dat consecutivo DAT-8268-001
+8268
+Testst
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f30fbe0>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f30fbe0>]
+3413022000263150001
+Consecutivo Generated
+Consecutivo: DAT-8268-001
+ZID:  3413022000263149001
+DAT:  DAT-8268-001
+[<zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c4d8da7c0>]
+Record:  <zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c4d8da7c0>
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f3277c0>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f3277c0>]
+3413022000263151001
+zoho_id Contact
+2024-03-25
+Record List:  [<zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c4d8daeb0>]
+E1
+request:  <zcrmsdk.src.com.zoho.crm.api.record.action_wrapper.ActionWrapper object at 0x7f2c4f33b580>
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d6fe880>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d6fe880>]
+3413022000263149057
+zoho_id CONTRACTT
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f30ff10>]
+{'index': 6847, 'name': 'Gabriel Janu', 'email': 'gabriel@iptech.cr', 'phone': '88800080', 'id': '120300001426', 'id_type': 'DIMEX', 'type': 'internet', 'condominium': '3413022000131767773', 'ftth': 'condominium', 'mobile': '88800080', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Escazú', 'address': 'Casa 6', 'plan': 10, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 17, 6, 14, 997000), 'extra_iptv': 0, 'promcode': '3413022000135443031', 'crm_status': False, 'price': 20500.0, 'download': 100.0, 'upload': 100.0, 'simetry': '1', 'iptv': False, 'telephony': '0', 'price_string': '20.500', 'idpro': '3413022000064511185', 'description': 'Servicio de internet Fibra Óptica de 100 Mbps Simétrico con una relación de (1:1)', 'tax_free_price': 17865.0, 'public_ip': False, 'coorda': '9.928363717296218, -84.12297002133506', 'idacc': 3413022000263149001, 'idcont': 3413022000263151001, 'namem': 'Condominios', 'nameaccm': 'Condominio_C', 'idcontact': 3413022000263151001, 'idcontract': 3413022000263149057, 'idtask': 3413022000263100030}
+Arreglo: {'index': 6848, 'name': 'Alejandro Hernandez', 'email': 'alejandro3829@gmail.com', 'phone': '60337098', 'id': '207490687', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000146607892', 'ftth': None, 'mobile': '', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Santa Ana', 'address': 'TESTPRUEBAS', 'plan': 23, 'dates': None, 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36', 'ip_address': '190.7.193.114', 'status': 'approved', 'reference': '138667189', 'create_time': datetime.datetime(2024, 3, 25, 17, 7, 28, 440000), 'extra_iptv': 0, 'promcode': '', 'crm_status': False}
+
+./
+Condominios
+Conobj:  {'Nombre': 'Juan Manuel', 'Owner': 3413022000002680013, 'Email': 'notiene@gmail.com', 'Cortes_a': False, 'CPO': 0, '$currency_symbol': 'CRC', '$field_states': None, 'Name': 'Apartamentos Margarita', 'Last_Activity_Time': datetime.datetime(2024, 3, 15, 21, 35, 35, tzinfo=tzlocal()), '$state': 'save', 'Unsubscribed_Mode': None, '$process_flow': False, '$locked_for_me': False, 'D_as_de_Atenci_n': None, 'id': 3413022000146607892, '$approved': True, '$approval': {'delegate': False, 'approve': False, 'reject': False, 'resubmit': False}, 'Created_Time': datetime.datetime(2022, 8, 31, 20, 57, 1, tzinfo=tzlocal()), 'Cantidad_de_Clientes': 1, '$editable': True, 'Direcci_n': '100 mts. norte del mas x menos, detras de auto star apartamento Margarita, apto 19.', 'Estatus': 'Acceso denegado', 'Fases': 'Construido', 'Cantidad_de_Clientes_Informe': 1.0, 'Ejecutivo_Encargado': 3413022000064366001, 'Created_By': 3413022000002680013, '$zia_owner_assignment': None, 'Canitdad_de_Casas': 19, '$review_process': {'approve': False, 'reject': False, 'resubmit': False}, 'N_A_Cortes_a': True, 'Penetracion': 5.26, '$canvas_id': None, 'Record_Image': None, 'Modified_By': 3413022000000191017, 'F_Cantidad_de_Casas': 19.0, '$review': None, 'Estado_de_Construncion': 'Completado', 'Fecha_de_Instalaci_n': None, 'Horario_de_Ingreso': None, 'Provincia': 'San José', 'Tel_fono': '7042 1901', 'Tipo_de_Condominio': 'Horizontal', 'Modified_Time': datetime.datetime(2024, 3, 15, 21, 35, 35, tzinfo=tzlocal()), 'Distritos': 'Santa Ana', 'Unsubscribed_Time': None, 'Cant_n': 'Santa Ana', '$orchestration': False, 'Capacidad_Maxima': '1GB', 'Factibilidad': None, '$in_merge': False, 'Locked__s': False, 'Coordenadas': '9.939857, -84.187920', 'Tag': '', 'Tipo_de_Construcci_n': 'Ducto', '$approval_state': 'approved'}
+Cadena  2074.90687
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8da7f0>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8da7f0>]
+3413022000263151021
+zoho_id cuenta
+Dat consecutivo DAT-8269-001
+8269
+Testst
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f30feb0>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f30feb0>]
+3413022000263144038
+Consecutivo Generated
+Consecutivo: DAT-8269-001
+ZID:  3413022000263151021
+DAT:  DAT-8269-001
+[<zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c5067a670>]
+Record:  <zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c5067a670>
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f3278b0>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f3278b0>]
+3413022000263150006
+zoho_id Contact
+2024-03-25
+Record List:  [<zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c5067a040>]
+E1
+request:  <zcrmsdk.src.com.zoho.crm.api.record.action_wrapper.ActionWrapper object at 0x7f2c4d8da700>
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8da9d0>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8da9d0>]
+3413022000263148064
+zoho_id CONTRACTT
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f327d00>]
+{'index': 6848, 'name': 'Alejandro Hernandez', 'email': 'alejandro3829@gmail.com', 'phone': '60337098', 'id': '207490687', 'id_type': 'Cedula Fisica', 'type': 'internet', 'condominium': '3413022000146607892', 'ftth': None, 'mobile': '', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Santa Ana', 'address': 'TESTPRUEBAS', 'plan': 23, 'dates': None, 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36', 'ip_address': '190.7.193.114', 'status': 'approved', 'reference': '138667189', 'create_time': datetime.datetime(2024, 3, 25, 17, 7, 28, 440000), 'extra_iptv': 0, 'promcode': '', 'crm_status': False, 'price': 49500.0, 'download': 1024.0, 'upload': 1024.0, 'simetry': '1', 'iptv': False, 'telephony': '0', 'price_string': '49.500', 'idpro': '3413022000064317021', 'description': 'Servicio de internet Fibra Óptica de 1 GB Simétrico con una relación de (1:1)', 'tax_free_price': 43137.0, 'public_ip': False, 'coorda': '9.939857, -84.187920', 'idacc': 3413022000263151021, 'idcont': 3413022000263150006, 'namem': 'Condominios', 'nameaccm': 'Condominio_C', 'idcontact': 3413022000263150006, 'idcontract': 3413022000263148064, 'idtask': 3413022000263123007}
+Arreglo: {'index': 6849, 'name': 'Sergio Espinoza Dien', 'email': 'sergioespinozadien@gmail.com', 'phone': '87010178', 'id': '107870299', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000131767642', 'ftth': 'condominium', 'mobile': '', 'province': 'San José', 'canton': 'Curridabat', 'district': 'Curridabat', 'address': 'Calle 75 Avenida 18, Apartamento 1003', 'plan': 10, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 17, 49, 45, 553000), 'extra_iptv': 0, 'promcode': '3413022000064366001', 'crm_status': False}
+3413022000064366001
+./
+Condominios
+Arreglo: {'index': 6849, 'name': 'Sergio Espinoza Dien', 'email': 'sergioespinozadien@gmail.com', 'phone': '87010178', 'id': '107870299', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000131767642', 'ftth': 'condominium', 'mobile': '', 'province': 'San José', 'canton': 'Curridabat', 'district': 'Curridabat', 'address': 'Calle 75 Avenida 18, Apartamento 1003', 'plan': 10, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 17, 49, 45, 553000), 'extra_iptv': 0, 'promcode': '3413022000064366001', 'crm_status': False}
+3413022000064366001
+./
+Condominios
+Arreglo: {'index': 6849, 'name': 'Sergio Espinoza Dien', 'email': 'sergioespinozadien@gmail.com', 'phone': '87010178', 'id': '107870299', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000131767642', 'ftth': 'condominium', 'mobile': '', 'province': 'San José', 'canton': 'Curridabat', 'district': 'Curridabat', 'address': 'Calle 75 Avenida 18, Apartamento 1003', 'plan': 10, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 17, 49, 45, 553000), 'extra_iptv': 0, 'promcode': '3413022000064366001', 'crm_status': False}
+3413022000064366001
+./
+Condominios
+Arreglo: {'index': 6849, 'name': 'Sergio Espinoza Dien', 'email': 'sergioespinozadien@gmail.com', 'phone': '87010178', 'id': '107870299', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000131767642', 'ftth': 'condominium', 'mobile': '', 'province': 'San José', 'canton': 'Curridabat', 'district': 'Curridabat', 'address': 'Calle 75 Avenida 18, Apartamento 1003', 'plan': 10, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 17, 49, 45, 553000), 'extra_iptv': 0, 'promcode': '3413022000064366001', 'crm_status': False}
+3413022000064366001
+./
+Condominios
+Arreglo: {'index': 6849, 'name': 'Sergio Espinoza Dien', 'email': 'sergioespinozadien@gmail.com', 'phone': '87010178', 'id': '107870299', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000131767642', 'ftth': 'condominium', 'mobile': '', 'province': 'San José', 'canton': 'Curridabat', 'district': 'Curridabat', 'address': 'Calle 75 Avenida 18, Apartamento 1003', 'plan': 10, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 17, 49, 45, 553000), 'extra_iptv': 0, 'promcode': '3413022000064366001', 'crm_status': False}
+3413022000064366001
+./
+Condominios
+Arreglo: {'index': 6849, 'name': 'Sergio Espinoza Dien', 'email': 'sergioespinozadien@gmail.com', 'phone': '87010178', 'id': '107870299', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000131767642', 'ftth': 'condominium', 'mobile': '', 'province': 'San José', 'canton': 'Curridabat', 'district': 'Curridabat', 'address': 'Calle 75 Avenida 18, Apartamento 1003', 'plan': 10, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 17, 49, 45, 553000), 'extra_iptv': 0, 'promcode': '3413022000064366001', 'crm_status': False}
+3413022000064366001
+./
+Condominios
+Arreglo: {'index': 6849, 'name': 'Sergio Espinoza Dien', 'email': 'sergioespinozadien@gmail.com', 'phone': '87010178', 'id': '107870299', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000131767642', 'ftth': 'condominium', 'mobile': '', 'province': 'San José', 'canton': 'Curridabat', 'district': 'Curridabat', 'address': 'Calle 75 Avenida 18, Apartamento 1003', 'plan': 10, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 17, 49, 45, 553000), 'extra_iptv': 0, 'promcode': '3413022000064366001', 'crm_status': False}
+3413022000064366001
+./
+Condominios
+Arreglo: {'index': 6849, 'name': 'Sergio Espinoza Dien', 'email': 'sergioespinozadien@gmail.com', 'phone': '87010178', 'id': '107870299', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000131767642', 'ftth': 'condominium', 'mobile': '', 'province': 'San José', 'canton': 'Curridabat', 'district': 'Curridabat', 'address': 'Calle 75 Avenida 18, Apartamento 1003', 'plan': 10, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 17, 49, 45, 553000), 'extra_iptv': 0, 'promcode': '3413022000064366001', 'crm_status': False}
+3413022000064366001
+./
+Condominios
+Conobj:  {'Nombre': 'Roy Angulo Moreno', 'Owner': 3413022000085558001, 'Email': 'torrelasloras@futurecr.com', 'Cortes_a': True, 'CPO': 152, '$currency_symbol': 'CRC', '$field_states': None, 'Name': 'Condominio Torre Las Loras', 'Last_Activity_Time': datetime.datetime(2024, 3, 20, 19, 41, tzinfo=tzlocal()), '$state': 'save', 'Unsubscribed_Mode': None, '$process_flow': False, '$locked_for_me': False, 'D_as_de_Atenci_n': 'Lunes a Viernes', 'id': 3413022000131767642, '$approved': True, '$approval': {'delegate': False, 'approve': False, 'reject': False, 'resubmit': False}, 'Created_Time': datetime.datetime(2022, 7, 1, 18, 40, 58, tzinfo=tzlocal()), 'Cantidad_de_Clientes': 13, '$editable': True, 'Direcci_n': '200m oeste plaza del sol', 'Estatus': 'Acceso permitido', 'Fases': 'Construido', 'Cantidad_de_Clientes_Informe': 13.0, 'Ejecutivo_Encargado': 3413022000064366001, 'Created_By': 3413022000085558001, '$zia_owner_assignment': None, 'Canitdad_de_Casas': 42, '$review_process': {'approve': False, 'reject': False, 'resubmit': False}, 'N_A_Cortes_a': False, 'Penetracion': 30.95, '$canvas_id': None, 'Record_Image': None, 'Modified_By': 3413022000000191017, 'F_Cantidad_de_Casas': 42.0, '$review': None, 'Estado_de_Construncion': 'Completado', 'Fecha_de_Instalaci_n': datetime.datetime(2021, 12, 31, 18, 0, tzinfo=tzlocal()), 'Horario_de_Ingreso': '9:00 a.m a 4:30 p.m', 'Provincia': 'San José', 'Tel_fono': '506 4704 9226', 'Tipo_de_Condominio': 'Vertical', 'Modified_Time': datetime.datetime(2024, 3, 20, 19, 41, tzinfo=tzlocal()), 'Distritos': 'Curridabat', 'Unsubscribed_Time': None, 'Cant_n': 'Curridabat', '$orchestration': False, 'Capacidad_Maxima': '1GB', 'Factibilidad': None, '$in_merge': False, 'Locked__s': False, 'Coordenadas': '9.927513729541326, -84.0435574261464', 'Tag': '', 'Tipo_de_Construcci_n': 'Vertical', '$approval_state': 'approved'}
+Cadena  1078.70299
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f327ee0>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4f327ee0>]
+3413022000263150026
+zoho_id cuenta
+Dat consecutivo DAT-8271-001
+8271
+Testst
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8dadf0>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8dadf0>]
+3413022000263150082
+Consecutivo Generated
+Consecutivo: DAT-8271-001
+ZID:  3413022000263150026
+DAT:  DAT-8271-001
+[<zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c4f30f970>]
+Record:  <zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c4f30f970>
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8fe910>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8fe910>]
+3413022000263074002
+zoho_id Contact
+2024-03-25
+Record List:  [<zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c4f30ff40>]
+E1
+request:  <zcrmsdk.src.com.zoho.crm.api.record.action_wrapper.ActionWrapper object at 0x7f2c4d8f0a30>
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8f0a60>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8f0a60>]
+3413022000262993090
+zoho_id CONTRACTT
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d6fea60>]
+{'index': 6849, 'name': 'Sergio Espinoza Dien', 'email': 'sergioespinozadien@gmail.com', 'phone': '87010178', 'id': '107870299', 'id_type': 'Cedula Fisica', 'type': 'internet', 'condominium': '3413022000131767642', 'ftth': 'condominium', 'mobile': '', 'province': 'San José', 'canton': 'Curridabat', 'district': 'Curridabat', 'address': 'Calle 75 Avenida 18, Apartamento 1003', 'plan': 10, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 17, 49, 45, 553000), 'extra_iptv': 0, 'promcode': '3413022000064366001', 'crm_status': False, 'price': 20500.0, 'download': 100.0, 'upload': 100.0, 'simetry': '1', 'iptv': False, 'telephony': '0', 'price_string': '20.500', 'idpro': '3413022000064511185', 'description': 'Servicio de internet Fibra Óptica de 100 Mbps Simétrico con una relación de (1:1)', 'tax_free_price': 17865.0, 'public_ip': False, 'coorda': '9.927513729541326, -84.0435574261464', 'idacc': 3413022000263150026, 'idcont': 3413022000263074002, 'namem': 'Condominios', 'nameaccm': 'Condominio_C', 'idcontact': 3413022000263074002, 'idcontract': 3413022000262993090, 'idtask': 3413022000263074022}
+Arreglo: {'index': 6856, 'name': 'Maria Gabriela Aguilar Herrera', 'email': 'gabs.aguilar@gmsil.com', 'phone': '88540642', 'id': '110400036', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000131767652', 'ftth': 'condominium', 'mobile': '88540642', 'province': 'San José', 'canton': 'Curridabat', 'district': 'Cipreses', 'address': 'casa 47', 'plan': 20, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 19, 36, 50, 153000), 'extra_iptv': 0, 'promcode': '3413022000258191001', 'crm_status': False}
+3413022000258191001
+./
+Condominios
+Conobj:  {'Nombre': 'Raul Angulo', 'Owner': 3413022000085558001, 'Email': 'rangulo@futurecr.com', 'Cortes_a': True, 'CPO': 1, '$currency_symbol': 'CRC', '$field_states': None, 'Name': 'Condominio Brisas del Bosque Cipreses', 'Last_Activity_Time': datetime.datetime(2024, 3, 15, 22, 3, 20, tzinfo=tzlocal()), '$state': 'save', 'Unsubscribed_Mode': None, '$process_flow': False, '$locked_for_me': False, 'D_as_de_Atenci_n': None, 'id': 3413022000131767652, '$approved': True, '$approval': {'delegate': False, 'approve': False, 'reject': False, 'resubmit': False}, 'Created_Time': datetime.datetime(2022, 7, 1, 18, 48, 5, tzinfo=tzlocal()), 'Cantidad_de_Clientes': 13, '$editable': True, 'Direcci_n': 'Costado oeste del parque de cipreses', 'Estatus': 'Acceso permitido', 'Fases': 'Construido', 'Cantidad_de_Clientes_Informe': 13.0, 'Ejecutivo_Encargado': 3413022000169357001, 'Created_By': 3413022000085558001, '$zia_owner_assignment': None, 'Canitdad_de_Casas': 54, '$review_process': {'approve': False, 'reject': False, 'resubmit': False}, 'N_A_Cortes_a': False, 'Penetracion': 24.07, '$canvas_id': None, 'Record_Image': None, 'Modified_By': 3413022000000191017, 'F_Cantidad_de_Casas': 54.0, '$review': None, 'Estado_de_Construncion': 'Completado', 'Fecha_de_Instalaci_n': datetime.datetime(2021, 3, 19, 18, 0, tzinfo=tzlocal()), 'Horario_de_Ingreso': None, 'Provincia': 'San José', 'Tel_fono': '50689871192', 'Tipo_de_Condominio': 'Horizontal', 'Modified_Time': datetime.datetime(2024, 3, 15, 22, 3, 20, tzinfo=tzlocal()), 'Distritos': 'Cipreses', 'Unsubscribed_Time': None, 'Cant_n': 'Curridabat', '$orchestration': False, 'Capacidad_Maxima': '1GB', 'Factibilidad': None, '$in_merge': False, 'Locked__s': False, 'Coordenadas': '9.920593, -84.026295', 'Tag': '', 'Tipo_de_Construcci_n': 'Aéreo', '$approval_state': 'approved'}
+Cadena  1104.00036
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d6fe970>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d6fe970>]
+3413022000263123012
+zoho_id cuenta
+Dat consecutivo DAT-8272-001
+8272
+Testst
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d6fe910>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d6fe910>]
+3413022000262993153
+Consecutivo Generated
+Consecutivo: DAT-8272-001
+ZID:  3413022000263123012
+DAT:  DAT-8272-001
+[<zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c4d8b2970>]
+Record:  <zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c4d8b2970>
+E1
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d6fe850>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d6fe850>]
+3413022000263151077
+zoho_id Contact
+2024-03-25
+Record List:  [<zcrmsdk.src.com.zoho.crm.api.record.record.Record object at 0x7f2c4d8b22e0>]
+E1
+request:  <zcrmsdk.src.com.zoho.crm.api.record.action_wrapper.ActionWrapper object at 0x7f2c4d8fe220>
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8fedf0>]
+E2
+E3
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8fedf0>]
+3413022000263149149
+zoho_id CONTRACTT
+[<zcrmsdk.src.com.zoho.crm.api.record.success_response.SuccessResponse object at 0x7f2c4d8f0af0>]
+{'index': 6856, 'name': 'Maria Gabriela Aguilar Herrera', 'email': 'gabs.aguilar@gmsil.com', 'phone': '88540642', 'id': '110400036', 'id_type': 'Cedula Fisica', 'type': 'internet', 'condominium': '3413022000131767652', 'ftth': 'condominium', 'mobile': '88540642', 'province': 'San José', 'canton': 'Curridabat', 'district': 'Cipreses', 'address': 'casa 47', 'plan': 20, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 19, 36, 50, 153000), 'extra_iptv': 0, 'promcode': '3413022000258191001', 'crm_status': False, 'price': 33410.0, 'download': 500.0, 'upload': 500.0, 'simetry': '1', 'iptv': False, 'telephony': '0', 'price_string': '33.410', 'idpro': '3413022000064511185', 'description': 'Servicio de internet Fibra Óptica de 500 Mbps Simétrico con una relación de (1:1)', 'tax_free_price': 29115.0, 'public_ip': False, 'coorda': '9.920593, -84.026295', 'idacc': 3413022000263123012, 'idcont': 3413022000263151077, 'namem': 'Condominios', 'nameaccm': 'Condominio_C', 'idcontact': 3413022000263151077, 'idcontract': 3413022000263149149, 'idtask': 3413022000263100035}
+Arreglo: {'index': 6857, 'name': 'Kendall Rugama Potosme', 'email': 'pablocrekaeefamilia@gmail.com', 'phone': '70982010', 'id': '118870792', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000174665174', 'ftth': 'condominium', 'mobile': '70982010', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Pozos', 'address': 'casa # 17', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 20, 3, 51, 810000), 'extra_iptv': 0, 'promcode': '3413022000146924001', 'crm_status': False}
+3413022000146924001
+./
+Condominios
+Arreglo: {'index': 6857, 'name': 'Kendall Rugama Potosme', 'email': 'pablocrekaeefamilia@gmail.com', 'phone': '70982010', 'id': '118870792', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000174665174', 'ftth': 'condominium', 'mobile': '70982010', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Pozos', 'address': 'casa # 17', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 20, 3, 51, 810000), 'extra_iptv': 0, 'promcode': '3413022000146924001', 'crm_status': False}
+3413022000146924001
+./
+Condominios
+Arreglo: {'index': 6857, 'name': 'Kendall Rugama Potosme', 'email': 'pablocrekaeefamilia@gmail.com', 'phone': '70982010', 'id': '118870792', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000174665174', 'ftth': 'condominium', 'mobile': '70982010', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Pozos', 'address': 'casa # 17', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 20, 3, 51, 810000), 'extra_iptv': 0, 'promcode': '3413022000146924001', 'crm_status': False}
+3413022000146924001
+./
+Condominios
+Arreglo: {'index': 6857, 'name': 'Kendall Rugama Potosme', 'email': 'pablocrekaeefamilia@gmail.com', 'phone': '70982010', 'id': '118870792', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000174665174', 'ftth': 'condominium', 'mobile': '70982010', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Pozos', 'address': 'casa # 17', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 20, 3, 51, 810000), 'extra_iptv': 0, 'promcode': '3413022000146924001', 'crm_status': False}
+3413022000146924001
+./
+Condominios
+Arreglo: {'index': 6857, 'name': 'Kendall Rugama Potosme', 'email': 'pablocrekaeefamilia@gmail.com', 'phone': '70982010', 'id': '118870792', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000174665174', 'ftth': 'condominium', 'mobile': '70982010', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Pozos', 'address': 'casa # 17', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 20, 3, 51, 810000), 'extra_iptv': 0, 'promcode': '3413022000146924001', 'crm_status': False}
+3413022000146924001
+./
+Condominios
+Arreglo: {'index': 6857, 'name': 'Kendall Rugama Potosme', 'email': 'pablocrekaeefamilia@gmail.com', 'phone': '70982010', 'id': '118870792', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000174665174', 'ftth': 'condominium', 'mobile': '70982010', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Pozos', 'address': 'casa # 17', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 20, 3, 51, 810000), 'extra_iptv': 0, 'promcode': '3413022000146924001', 'crm_status': False}
+3413022000146924001
+./
+Condominios
+Arreglo: {'index': 6857, 'name': 'Kendall Rugama Potosme', 'email': 'pablocrekaeefamilia@gmail.com', 'phone': '70982010', 'id': '118870792', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000174665174', 'ftth': 'condominium', 'mobile': '70982010', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Pozos', 'address': 'casa # 17', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 20, 3, 51, 810000), 'extra_iptv': 0, 'promcode': '3413022000146924001', 'crm_status': False}
+3413022000146924001
+./
+Condominios
+Arreglo: {'index': 6857, 'name': 'Kendall Rugama Potosme', 'email': 'pablocrekaeefamilia@gmail.com', 'phone': '70982010', 'id': '118870792', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000174665174', 'ftth': 'condominium', 'mobile': '70982010', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Pozos', 'address': 'casa # 17', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 20, 3, 51, 810000), 'extra_iptv': 0, 'promcode': '3413022000146924001', 'crm_status': False}
+3413022000146924001
+./
+Condominios
+Arreglo: {'index': 6857, 'name': 'Kendall Rugama Potosme', 'email': 'pablocrekaeefamilia@gmail.com', 'phone': '70982010', 'id': '118870792', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000174665174', 'ftth': 'condominium', 'mobile': '70982010', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Pozos', 'address': 'casa # 17', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 20, 3, 51, 810000), 'extra_iptv': 0, 'promcode': '3413022000146924001', 'crm_status': False}
+3413022000146924001
+./
+Condominios
+Arreglo: {'index': 6857, 'name': 'Kendall Rugama Potosme', 'email': 'pablocrekaeefamilia@gmail.com', 'phone': '70982010', 'id': '118870792', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000174665174', 'ftth': 'condominium', 'mobile': '70982010', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Pozos', 'address': 'casa # 17', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 20, 3, 51, 810000), 'extra_iptv': 0, 'promcode': '3413022000146924001', 'crm_status': False}
+3413022000146924001
+./
+Condominios
+Arreglo: {'index': 6857, 'name': 'Kendall Rugama Potosme', 'email': 'pablocrekaeefamilia@gmail.com', 'phone': '70982010', 'id': '118870792', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000174665174', 'ftth': 'condominium', 'mobile': '70982010', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Pozos', 'address': 'casa # 17', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 20, 3, 51, 810000), 'extra_iptv': 0, 'promcode': '3413022000146924001', 'crm_status': False}
+3413022000146924001
+./
+Condominios
+Arreglo: {'index': 6857, 'name': 'Kendall Rugama Potosme', 'email': 'pablocrekaeefamilia@gmail.com', 'phone': '70982010', 'id': '118870792', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000174665174', 'ftth': 'condominium', 'mobile': '70982010', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Pozos', 'address': 'casa # 17', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 20, 3, 51, 810000), 'extra_iptv': 0, 'promcode': '3413022000146924001', 'crm_status': False}
+3413022000146924001
+./
+Condominios
+Arreglo: {'index': 6857, 'name': 'Kendall Rugama Potosme', 'email': 'pablocrekaeefamilia@gmail.com', 'phone': '70982010', 'id': '118870792', 'id_type': 'Cedula Fisica', 'type': 'customer', 'condominium': '3413022000174665174', 'ftth': 'condominium', 'mobile': '70982010', 'province': 'San José', 'canton': 'Santa Ana', 'district': 'Pozos', 'address': 'casa # 17', 'plan': 19, 'dates': None, 'user_agent': None, 'ip_address': '0.0.0.0', 'status': 'approved', 'reference': None, 'create_time': datetime.datetime(2024, 3, 25, 20, 3, 51, 810000), 'extra_iptv': 0, 'promcode': '3413022000146924001', 'crm_status': False}
+3413022000146924001
+./
+Condominios
